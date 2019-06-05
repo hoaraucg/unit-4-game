@@ -1,0 +1,19 @@
+img {
+    height: 225px;
+    width: 185px;
+}
+
+#wins {
+    text-align: center;
+}
+
+.jumbotron {
+    padding: 0;
+}
+.row {
+    color: white;
+    align-content: center;
+}
+body {
+    background-color: black;
+}
